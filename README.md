@@ -2,6 +2,8 @@
 
 Renren lives between browser tabs. Open a second room, watch both pages discover each other, then send him through a door. He leaves one tab and appears in the other — no account and no application server.
 
+**[Open the live experiment →](https://renrenmimi.github.io/renren-across-tabs/)**
+
 ## What it demonstrates
 
 - Cross-tab presence and messaging with `BroadcastChannel`
