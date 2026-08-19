@@ -47,7 +47,7 @@ app.innerHTML = `
 
       <div class="character-wrap" data-character aria-live="polite">
         <p class="speech" data-speech>Give me a second. I’m checking the doors.</p>
-        <img src="./renren-character.png" alt="Renren, standing in the current browser room" width="948" height="1659" />
+        <img src="./renren-character.png" alt="A friendly cartoon Renren waving in the current browser room" width="1024" height="1536" />
         <span class="shadow" aria-hidden="true"></span>
         <span class="sleep" aria-hidden="true">Z <i>z</i> <i>z</i></span>
       </div>
